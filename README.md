@@ -1,5 +1,8 @@
 # Projet d'apprentissage par renforcement
 
+Tout d'abord, une démonstration du projet est disponible sur:
+https://perso.isima.fr/~rilamrani/projet_1a_isima/siteweb/projet_1a.html
+
 Le projet se décompose en quatres phases :
 + La première phase consiste à réaliser plusieurs exercices personnels afin de faciliter la création d'un jeu de groupe.
 + La deuxième phase a été de créer un jeu de la vie
